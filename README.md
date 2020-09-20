@@ -1,3 +1,7 @@
+# Template Updates
+
+Navigation Class - Collections to Pages Templates
+
 # blog
 
 ## CLI Commands
