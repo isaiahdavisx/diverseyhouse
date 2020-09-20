@@ -1,11 +1,13 @@
 .home {
   padding: 0;
   width: 100%;
+  height: 100%;
   background: #333333;
 }
 
 .about {
   display: flex;
+  height: inherit;
 }
 
 .imageContainer {
@@ -13,10 +15,9 @@
 }
 
 .image {
-	height: 30vw;
-	background-image: url(/assets/logo.svg);
-	background-size: cover;
-	background-position: center;
+  height: 100%;
+  background-image: url(/assets/logo.svg);
+  background-position: 50%;
 }
 
 .quote {
