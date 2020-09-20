@@ -14,7 +14,7 @@
 
 .image {
 	height: 30vw;
-	background-image: url(/assets/logo.png);
+	background-image: url(/assets/logo.svg);
 	background-size: cover;
 	background-position: center;
 }
